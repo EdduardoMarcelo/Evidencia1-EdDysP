@@ -1,5 +1,5 @@
 # Evidencia1-EdDysP
-EL código de esta evidencia consiste en:
+El código de esta evidencia consiste en:
 
 Demostrar la aplicación de listas anidadas o diccionarios (En ambos casos con tuplas 
 nominadas) para resolver el siguiente problema teórico:
