@@ -4,9 +4,9 @@ EL código de esta evidencia consiste en:
 Demostrar la aplicación de listas anidadas o diccionarios (En ambos casos con tuplas 
 nominadas) para resolver el siguiente problema teórico:
 
-3. Registro del detalle de servicios de un negocio de soporte técnico
+3.Registro del detalle de servicios de un negocio de soporte técnico
 
-3.1. Requerimientos funcionales: 
+3.1.Requerimientos funcionales: 
 
 3.1.1.Se debe ofrecer un menú navegable con las siguientes opciones: 
 
